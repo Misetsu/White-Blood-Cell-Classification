@@ -13,5 +13,5 @@ AI特論での自主課題。
 
 Misetsu
 
-Email:maknakita@gmail.com
+Email: maknakita@gmail.com
 
